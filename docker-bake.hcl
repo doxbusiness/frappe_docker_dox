@@ -25,7 +25,7 @@ variable "FRAPPE_REPO" {
 }
 
 variable "ERPNEXT_REPO" {
-    default = "https://github.com/frappe/erpnext"
+    default = "https://github.com/doxbusiness/dox_erp"
 }
 
 variable "BENCH_REPO" {
