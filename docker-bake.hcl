@@ -21,7 +21,7 @@ variable "ERPNEXT_VERSION" {
 }
 
 variable "FRAPPE_REPO" {
-    default = "https://github.com/frappe/frappe"
+    default = "https://github.com/doxbusiness/dox_theme"
 }
 
 variable "ERPNEXT_REPO" {
